@@ -16,11 +16,11 @@ portfolio-project/ │ ├── index.html ├── styles.css ├── scrip
    cd portfolio-project
 2. **Open in Your Browser:**
 
-    ```Simply open index.html in your preferred web browser.
+    Simply open index.html in your preferred web browser.
 
 3. **Modify Content:**
 
-    ```Replace the placeholder text and images in index.html, about.html, and the img folder with your content.
+    Replace the placeholder text and images in index.html, about.html, and the img folder with your content.
 
 ## Usage Guidelines
 Navigation: Use the navigation bar to switch between Home, About, and Contact sections.
