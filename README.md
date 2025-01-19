@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project is a personal portfolio website showcasing your blog, image gallery, and a short bio in the "About Me" section. It consists of HTML, CSS, and JavaScript for a complete front-end web application. 
+This project is a personal portfolio website showcasing my blog, image gallery, and a short bio in the "About Me" section. It consists of HTML, CSS, and JavaScript for a complete front-end web development program. 
 
 ## Project Structure
 
